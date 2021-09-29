@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dQbrV1.jpg" group-title="LIGA 1 & SUDIRMAN CUP", USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/liAQsH1.jpg" group-title="LIGA 1 & SUDIRMAN CUP", USEE SPORTS 1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dQbrV1.jpg" group-title="LIGA 1 & SUDIRMAN CUP", USEE SPORTS 2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sh0Bp2i.png" group-title="LIGA 1 & SUDIRMAN CUP", INDOSIAR
+https://peytv.fun/play/smtr@peytv.fun/08390362/aRnRhqhp/gerbil/205_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw6sLSE.png" group-title="LIGA 1 & SUDIRMAN CUP", O CHANNEL
+https://peytv.fun/play/smtr@peytv.fun/08390362/aRnRhqhp/gerbil/206_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aztd74c.png" group-title="LIGA 1 & SUDIRMAN CUP", CHAMPION TV 1
+https://peytv.fun/play/smtr@peytv.fun/08390362/aRnRhqhp/gerbil/6685_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dQbrV1.jpg" group-title="LIGA 1 & SUDIRMAN CUP", CHAMPIONS TV 2
+https://peytv.fun/play/smtr@peytv.fun/08390362/aRnRhqhp/gerbil/6686_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dQbrV1.jpg" group-title="LIGA 1 & SUDIRMAN CUP", CHAMPIONS TV 3
+https://peytv.fun/play/smtr@peytv.fun/08390362/aRnRhqhp/gerbil/6786_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DWQaPYC.jpg" group-title="LIGA 1 & SUDIRMAN CUP", MNC SPORTS
+https://cdn-livetv-studio.metube.id/mncsport.m3u8
+
+#EXTINF:-1 group-title="SERINGKAN", [001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 group-title="SERINGKAN", [055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+
