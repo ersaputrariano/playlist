@@ -1,0 +1,55 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BeinSport SD",Bein premium-1SD
+http://xcwsnl28.mrnova.online/live/60020_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BeinSport SD",Bein premium-2SD
+http://xcwsnl28.mrnova.online/live/60011_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BeinSport SD",Bein premium-3SD
+http://xcwsnl28.mrnova.online/live/60012_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png"group-title="BeinSport SD",Bein Xtra 1SD
+http://xcwsnl28.mrnova.online/live/60459_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png"group-title="BeinSport SD",Bein Xtra 2SD
+http://xcwsnl28.mrnova.online/live/60459_.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png"group-title="BeinSport SD",BeinSport 1SD
+http://xcwsnl28.mrnova.online/live/60013_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BeinSport SD",BeinSport 2SD
+http://xcwsnl28.mrnova.online/live/60014_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BeinSport SD",BeinSport 3SD
+http://xcwsnl28.mrnova.online/live/60015_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BeinSport SD",BeinSport 4SD
+http://xcwsnl28.mrnova.online/live/60016_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BeinSport SD",BeinSport 5SD
+http://xcwsnl28.mrnova.online/live/60017_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BeinSport SD",BeinSport 6SD
+http://xcwsnl28.mrnova.online/live/60018_.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BeinSport SD",BeinSport 7SD
+http://xcwsnl28.mrnova.online/live/60019_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BeinSport HD",Bein Premium-1HD
+http://xcwsnl28.mrnova.online/live/60040_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BeinSport HD",Bein Premium-2HD
+http://xcwsnl28.mrnova.online/live/60031_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="BeinSport HD",Bein Premium-3HD
+http://xcwsnl28.mrnova.online/live/60032_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png"group-title="BeinSport HD",Bein Xtra 1HD
+https://sos.moukrasa.xyz/live/9962564400/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png"group-title="BeinSport HD",Bein Xtra 2HD
+https://sos.moukrasa.xyz/live/880025552/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hd.png" group-title="BeinSport HD",BeinSport 1HD
+http://xcwsnl28.mrnova.online/live/60033_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hd.png" group-title="BeinSport HD",BeinSport 2HD
+http://xcwsnl28.mrnova.online/live/60034_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="BeinSport HD",BeinSport 3HD
+http://xcwsnl28.mrnova.online/live/60035_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png" group-title="BeinSport HD",BeinSport 4HD
+http://xcwsnl28.mrnova.online/live/60036_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png" group-title="BeinSport HD",BeinSport 5HD
+http://xcwsnl28.mrnova.online/live/60037_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png" group-title="BeinSport HD",BeinSport 6HD
+http://xcwsnl28.mrnova.online/live/60038_.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png" group-title="BeinSport HD",BeinSport 7HD
+http://xcwsnl28.mrnova.online/live/60039_.m3u8
